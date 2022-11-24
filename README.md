@@ -1,16 +1,47 @@
 # flutter_application_basic
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nama:Kevin Natanael Wijaya  
+Kelas:TI-3B  
+NIM:2041720091  
+  
+Text Widget:  
+<img src="ss/text.png" alt="ss 1" style="width:200px;"/>  
+Image Widget:  
+<img src="ss/image.png" alt="ss 1" style="width:200px;"/>  
+Material Design and Cupertino Widget:  
+<img src="ss/cupertino.png" alt="ss 1" style="width:200px;"/>  
+Button Widget:  
+<img src="ss/button.png" alt="ss 1" style="width:200px;"/>  
+Scaffold Widget:  
+<img src="ss/scaffold.png" alt="ss 1" style="width:200px;"/>  
+Dialog Widget:  
+<img src="ss/dialog.png" alt="ss 1" style="width:200px;"/>  
+Input and Selection Widget:  
+<img src="ss/inputSelection.png" alt="ss 1" style="width:200px;"/>  
+Date and Time Widget:  
+<img src="ss/dateTime.png" alt="ss 1" style="width:200px;"/>  
+Button with Container Widget:  
+<img src="ss/buttonWithContainer.png" alt="ss 1" style="width:200px;"/>  
+Bottom Align Container Widget:  
+<img src="ss/bottomAlign.png" alt="ss 1" style="width:200px;"/>  
+Color Container Widget:  
+<img src="ss/colorContainer.png" alt="ss 1" style="width:200px;"/>  
+Height and Width Widget:  
+<img src="ss/heightWidth.png" alt="ss 1" style="width:200px;"/>  
+Margin Widget:  
+<img src="ss/margin.png" alt="ss 1" style="width:200px;"/>  
+Padding Widget:  
+<img src="ss/padding.png" alt="ss 1" style="width:200px;"/>  
+Image Transform Widget:  
+<img src="ss/imageTransform.png" alt="ss 1" style="width:200px;"/>  
+Image Configuration Widget:  
+<img src="ss/imageConfiguration.png" alt="ss 1" style="width:200px;"/>  
+Column Widget:  
+<img src="ss/column.png" alt="ss 1" style="width:200px;"/>  
+Row Widget:  
+<img src="ss/row.png" alt="ss 1" style="width:200px;"/>  
+Stack Widget:  
+<img src="ss/stack.png" alt="ss 1" style="width:200px;"/>  
+List View Widget:  
+<img src="ss/listView.png" alt="ss 1" style="width:200px;"/>  
+Grid View Widget:  
+<img src="ss/gridView.png" alt="ss 1" style="width:200px;"/>  
