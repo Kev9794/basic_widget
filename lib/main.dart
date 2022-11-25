@@ -20,6 +20,7 @@ import 'package:flutter_application_basic/widgets/row_column_listview.dart';
 import 'package:flutter_application_basic/widgets/row_column_gridview.dart';
 import 'package:flutter_application_basic/widgets/scaffold.dart';
 import 'package:flutter_application_basic/widgets/text.dart';
+import 'package:flutter_application_basic/tugas.dart';
 
 void main() => runApp(MyApp());
 
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      routes: {'/': (context) => GridViewSample()},
+      routes: {'/': (context) => TugasPraktikum()},
     );
   }
 }

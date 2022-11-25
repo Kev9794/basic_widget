@@ -45,3 +45,6 @@ List View Widget:
 <img src="ss/listView.png" alt="ss 1" style="width:200px;"/>  
 Grid View Widget:  
 <img src="ss/gridView.png" alt="ss 1" style="width:200px;"/>  
+Tugas Praktikum:  
+<img src="ss/tugas1.png" alt="ss 1" style="width:200px;"/>  
+<img src="ss/tugas2.png" alt="ss 1" style="width:200px;"/>  
